@@ -1,0 +1,43 @@
+
+// Header
+// ––––––––––––––––––––––––––––––––––––––––––––––––––
+
+.header
+	background-color: $color-tertiary
+	padding-top: 1rem
+
+	@media (min-width: 40.0rem)
+		padding-top: 5rem
+
+	& + section
+		border-top: 0
+
+	.container
+		border-top: 0
+		padding-bottom: 5rem
+		padding-top: 5rem
+		margin-bottom: 5rem
+
+	.img
+		height: 12rem
+		margin-bottom: 2rem
+		path
+			animation: 5s makobit forwards
+			fill: $color-primary
+			stroke: $color-primary
+			stroke-dasharray: 500
+			stroke-miterlimit: 10
+			stroke-width: 1px
+
+// Logo animation
+// ––––––––––––––––––––––––––––––––––––––––––––––––––
+@keyframes makobit
+	0%
+		fill-opacity: 0
+		stroke-dashoffset: 500
+	25%
+		fill-opacity: 0
+		stroke: $color-primary
+	100%
+		fill-opacity: 1
+		stroke-dashoffset: 0
