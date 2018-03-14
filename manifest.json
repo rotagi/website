@@ -1,0 +1,19 @@
+{
+    "name": "Makobit",
+    "lang": "de",
+    "short_name": "Makobit",
+    "description": "IT-Dienstleistungen von einem erfahrenen, dynamischen Team aus Dachau. Programmierung, Webentwicklung, Datenbanksysteme. Ihr Projekt in guten Händen.",
+    "theme_color": "#4a90d9",
+    "background_color": "#fdfdfd",
+    "display": "standalone",
+    "start_url": "/",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "assets/favicons/favicon.png",
+            "sizes": "196x196",
+            "type": "image\/png",
+            "density": 4.0
+        }
+    ]
+}
