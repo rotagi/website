@@ -8,21 +8,21 @@ title: Kontakt
 
 ## Kontakt
 
-Makobit UG\\
+Rotagi Systems\\
 Jakob-Schmid-Straße 38\\
 85221 Dachau
 
 <div class="row">
   <div class="column">
-    <h3>Dennis Rohner</h3>
-    <img class="rounded-circle" src="{{ '/assets/images/dennis.jpg' | prepend: site.baseurl }}">
-    <p>E-Mail: dennis<span hidden>.nospam</span>@makobit.de</p>
-    <p>Handy: 0174 927 47 03</p>
+    <h3>Christopher Giesche</h3>
+    <img class="rounded-circle" src="{{ '/assets/images/chris.jpg' | prepend: site.baseurl }}">
+    <p>E-Mail: info<span hidden>.nospam</span>@rotagi.de</p>
+    <p>Handy: 0175 6 49 49 49</p>
   </div>
   <div class="column">
-    <h3>Nick Scheithauer</h3>
-    <img class="rounded-circle" src="{{ '/assets/images/nick.jpg' | prepend: site.baseurl }}">
-    <p>E-Mail: nick<span hidden>.nospam</span>@makobit.de</p>
-    <p>Handy: 0152 534 94 936</p>
+    <h3>Dennis Rohner</h3>
+    <img class="rounded-circle" src="{{ '/assets/images/dennis.jpg' | prepend: site.baseurl }}">
+    <p>E-Mail: info<span hidden>.nospam</span>@rotagi.de</p>
+    <p>Handy: 0171 211 23 23</p>
   </div>
 </div>
